@@ -1,3 +1,7 @@
 .book .book-body .page-wrapper .page-inner section.normal {
     font-family: SimSun, "Microsoft YaHei", Serif;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal p {
+    text-indent: 4em;
+}
